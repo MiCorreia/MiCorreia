@@ -5,9 +5,5 @@ Bem-vindx ao meu cantinho no GitHub! Meu nome é Mikelly, mas pode me chamar de 
 ## Sobre Mim:
 
 - Atualmente, estou cursando o 5°/6° semestre de Engenharia da Computação na Universidade Federal da Bahia (UFBA).
-- Estou interessada em aprimorar meu conhecimento em Python e explorar outras linguagens.
+- Estou interessada em aprimorar meu conhecimento em Python e em Java.
 
-<div>
-  <a href="https://beacons.ai/MiCorreia">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight/>
-</div>
