@@ -87,5 +87,7 @@
 </blockquote>
 
 <br>
-<hr>
+<div align="center">
+  <img src="rodape.png" alt="Rodapé Trust The Process" width="50%" />
+</div>
 <br>
