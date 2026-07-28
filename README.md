@@ -12,7 +12,7 @@
 <summary align="center"><b> Clique aqui para descobrir mais sobre mim! </b></summary>
 <br>
 
-<img align="right" src="https://i.pinimg.com/originals/57/d7/87/57d7874e1136f45f2677e3c32fe833b3.gif" alt="Gatinho fofo digitando" width="180" />
+<img align="right" src="flores_transparente.gif" alt="Flores" width="180" />
 
 <div align="justify">
   Sou estudante de <b>Engenharia da Computação na UFBA</b> e apaixonada por tecnologia. Sempre tive curiosidade em entender como <b>hardware e software</b> funcionam juntos, o que despertou meu interesse por diferentes áreas da computação.
