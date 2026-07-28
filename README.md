@@ -14,13 +14,15 @@
 
 <img align="right" src="https://i.pinimg.com/originals/57/d7/87/57d7874e1136f45f2677e3c32fe833b3.gif" alt="Gatinho fofo digitando" width="180" />
 
-Sou estudante de <b>Engenharia da Computação na UFBA</b> e apaixonada por tecnologia. Sempre tive curiosidade em entender como <b>hardware e software</b> funcionam juntos, o que despertou meu interesse por diferentes áreas da computação.
-<br><br>
-Hoje, busco construir minha carreira em <b>Ciência de Dados e Machine Learning</b>, desenvolvendo soluções que gerem impacto por meio dos dados.
-<br><br>
-Ao longo da minha trajetória, atuei como <b>Diretora de Gestão de Pessoas na INFO JR</b>, experiência que fortaleceu minhas habilidades de liderança, comunicação e trabalho em equipe.
-<br><br>
-Estou sempre em busca de novos desafios e aprendizados.
+<div align="justify">
+  Sou estudante de <b>Engenharia da Computação na UFBA</b> e apaixonada por tecnologia. Sempre tive curiosidade em entender como <b>hardware e software</b> funcionam juntos, o que despertou meu interesse por diferentes áreas da computação.
+  <br><br>
+  Hoje, busco construir minha carreira em <b>Ciência de Dados e Machine Learning</b>, desenvolvendo soluções que geram impacto por meio dos dados.
+  <br><br>
+  Ao longo da minha trajetória, atuei como <b>Diretora de Gestão de Pessoas na INFO JR</b>, experiência que fortalece minhas habilidades de liderança, comunicação e trabalho em equipe.
+  <br><br>
+  Estou sempre em busca de novos desafios e aprendizados.
+</div>
 
 <br clear="all">
 
