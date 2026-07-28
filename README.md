@@ -49,6 +49,29 @@ Estou sempre em busca de novos desafios e aprendizados.
 
 <br><hr><br>
 
+<!-- ================= CONTATO ================= -->
+### 📱 Seção Contato
+
+<p align="left">
+  Estou sempre aberta para conversar sobre projetos, tecnologia ou apenas para trocar ideias! Entre em contato comigo através dos seguintes meios:
+</p>
+
+<div align="center">
+  <br>
+  <a href="https://www.instagram.com/pua_correia" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="mailto:mikellycorreia17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mikelly-correia-75b85a203/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>  
+</div>
+<br><hr><br>
+
 <!-- ================= MINHAS ESTATÍSTICAS ================= -->
 ### 🎮 Minhas Estatísticas
 
