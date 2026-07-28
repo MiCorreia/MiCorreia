@@ -83,9 +83,11 @@
 | | |
 |:---:|:---:|
 | <img src="https://github-stats-extended.vercel.app/api?username=MiCorreia&theme=pastel&hide_border=true&bg_color=FFF0F5&title_color=FF1493&icon_color=FF69B4&text_color=DB7093&show_icons=true&include_all_commits=true&count_private=true" width="400"/> | <img src="https://streak-stats.demolab.com/?user=MiCorreia&theme=pastel&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=DB7093" width="400"/> |
-| <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiCorreia&theme=pastel&hide_border=true&bg_color=FFF0F5&title_color=FF1493&text_color=DB7093&layout=compact" width="400"/> | <img src="https://github-profile-trophy.vercel.app/?username=MiCorreia&theme=flat&column=3&margin-w=8&no-frame=true&title_color=FF1493&text_color=DB7093&background=FFF0F5" width="400"/> |
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiCorreia&theme=pastel&hide_border=true&bg_color=FFF0F5&title_color=FF1493&text_color=DB7093&layout=compact" width="400"/>
 
 </div>
+
 </details>
 </blockquote>
 
